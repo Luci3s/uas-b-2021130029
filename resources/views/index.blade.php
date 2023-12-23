@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="container mt-5">
-    <h1 class="display-4">Selamat datang di Toko Sembako Serbada Ada dan Serba</h1>
+    <h1 class="display-4">Selamat datang di Toko Sembako Serbada Ada dan Serba Bisa</h1>
 
     <div class="row">
         <div class="col-md-6">
